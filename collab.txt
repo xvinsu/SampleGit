@@ -1,2 +1,6 @@
 Hakdog
+<<<<<<< HEAD
 kahit ls tayo babawi nalang
+=======
+I add Line lol thanks -collab
+>>>>>>> 7547ddef6472ba75b2c2ef454317cf6bf1da3e1e
